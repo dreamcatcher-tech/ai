@@ -1,5 +1,11 @@
 # @ai-sdk/mistral
 
+## 2.0.0-alpha.13
+
+### Patch Changes
+
+- 478acd8: feat(mistral): added magistral reasoning models
+
 ## 2.0.0-alpha.12
 
 ### Patch Changes
